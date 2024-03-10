@@ -33,7 +33,7 @@ Click the link to access the interactive dashboard - [AIDS in Africa Dashboard](
 ## Author
 - Prateek Chauhan
 - [LinkedIn](https://www.linkedin.com/in/prateekchauhands/)
-- [X](https://twitter.com/PrateekC_DS)
+- [Twitter](https://twitter.com/PrateekC_DS)
 - [prateek-chauhan.com](https://prateek-chauhan.com/)
 
 ## Contact Me!
