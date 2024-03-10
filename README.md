@@ -36,4 +36,4 @@ Link - [AIDS in Africa Dashboard](https://lookerstudio.google.com/u/0/reporting/
 - [Website](https://prateek-chauhan.com/)
 
 ## Contact Me!
-Feel free to contact me at [Prateek Chauhan] (prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
+Feel free to contact me at [Prateek Chauhan](prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
