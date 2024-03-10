@@ -14,7 +14,7 @@ Excel and Power Query Editor: For data cleaning, filtering, and transformation i
 
 Looker Studio: For data analysis and visualization.
 
-## Conclusion
+## Key Highlights
 Nowhere in the world is the AIDS epidemic been more devastating than the continent of Africa. For South Africa, political turmoil and a long history of government denial fueled an epidemic that had reached disastrous proportions by the late 1990s and early 2000s.
 
 Even today, despite plunging death rates and greater leadership on the AIDS war front, the rate of new HIV infections continues to rise year after year. As a result, South Africa remains the country with the largest single population of HIV-infected people in the world.
@@ -25,12 +25,15 @@ With an estimated 7.7 million people infected, it represents about 14% of the en
 - 45% of all deaths in the country can be attributed to HIV.
 - 13% of South African blacks are infected with HIV versus 0.3% of South African whites.
 
-## Looker Studio Dashboard Link
+## Looker Studio Dashboard Preview
+Link - [AIDS in Africa Dashboard](https://lookerstudio.google.com/u/0/reporting/df970fad-5472-45b5-bdfa-12dbda7f6936)
+![AIDS in Africa Dashboard Preview Image](/images/aids-in-africa.png)
 
 ## Author
-- LinkedIn
-- Twitter
-- Website
+- Prateek Chauhan
+- [LinkedIn](https://www.linkedin.com/in/prateekchauhands/)
+- [Twitter](https://twitter.com/PrateekC_DS)
+- [Website](https://prateek-chauhan.com/)
 
 ## Contact Me!
-Feel free to contact me at prateekchauhan.ds@gmail.com for any data-related projects, collaborations, questions or suggestions.
+Feel free to contact me at [Prateek Chauhan] (prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
