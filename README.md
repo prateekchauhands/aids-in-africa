@@ -26,14 +26,15 @@ With an estimated 7.7 million people infected, it represents about 14% of the en
 - 13% of South African blacks are infected with HIV versus 0.3% of South African whites.
 
 ## Looker Studio Dashboard Preview
-Link - [AIDS in Africa Dashboard](https://lookerstudio.google.com/u/0/reporting/df970fad-5472-45b5-bdfa-12dbda7f6936)
+Click the link to access the interactive dashboard - [AIDS in Africa Dashboard](https://lookerstudio.google.com/u/0/reporting/df970fad-5472-45b5-bdfa-12dbda7f6936)
+
 ![AIDS in Africa Dashboard Preview Image](/images/aids-in-africa.png)
 
 ## Author
 - Prateek Chauhan
 - [LinkedIn](https://www.linkedin.com/in/prateekchauhands/)
 - [Twitter](https://twitter.com/PrateekC_DS)
-- [Website](https://prateek-chauhan.com/)
+- [prateek-chauhan.com](https://prateek-chauhan.com/)
 
 ## Contact Me!
-Feel free to contact me at [Prateek Chauhan](prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
+Feel free to contact me at [Prateek Chauhan](mailto:prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
