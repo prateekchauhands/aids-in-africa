@@ -1,13 +1,13 @@
 # AIDS in Africa
 
 ## Overview
-This project aims to analyze and visualize the HIV/AIDS related deaths data in Africa from 1990-2019. The data is sourced from Our World in Data website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
+This project aims to analyze and visualize the HIV/AIDS related deaths data in Africa from 1990-2019. The data is sourced from Our World In Data website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
 
 ## Dataset
-The dataset used in this project contains historical data for HIV/AIDS related deaths in Africa for the period 1990-2019. The data has been sourced from the Our World in Data website, which ensures its authenticity and reliability. The dataset includes information such as country, country code, death figures, age categories, and time period (yearly).
+The dataset used in this project contains historical data for HIV/AIDS related deaths in Africa for the period 1990-2019. The data has been sourced from the [Our World In Data](https://ourworldindata.org/hiv-aids) website, which ensures its authenticity and reliability. The dataset includes information such as country, country code, death figures, age categories, and time period (yearly).
 
 ## Data Processing
-The data obtained from the Our World in Data website requires some preprocessing to clean and transform it into a suitable format for analysis. Excel and Power Query Editor have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
+The data obtained from the Our World In Data website requires some preprocessing to clean and transform it into a suitable format for analysis. Excel and Power Query Editor have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
 
 ## Technologies Used
 Excel and Power Query Editor: For data cleaning, filtering, and transformation into the database.
