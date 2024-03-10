@@ -1,4 +1,4 @@
-# AIDS in Africa Dashboard
+# AIDS in Africa
 
 ## Overview
 This project aims to analyze and visualize the HIV/AIDS related deaths data in Africa from 1990-2019. The data is sourced from Our World in Data website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
