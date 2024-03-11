@@ -25,7 +25,7 @@ With an estimated 7.7 million people infected, it represents about 14% of the en
 - 45% of all deaths in the country can be attributed to HIV.
 - 13% of South African blacks are infected with HIV versus 0.3% of South African whites.
 
-## Looker Studio Dashboard Preview
+## Dashboard Preview
 Click the link to access the interactive dashboard - [AIDS in Africa Dashboard](https://lookerstudio.google.com/u/0/reporting/df970fad-5472-45b5-bdfa-12dbda7f6936)
 
 ![AIDS in Africa Dashboard Preview Image](/images/aids-in-africa.png)
